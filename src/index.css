@@ -29,3 +29,12 @@ h1{
 .flex-container{
   display: flex !important;
 }
+.btn{
+  background-color:blueviolet !important;
+  color: white !important;
+}
+
+select{
+  box-shadow: none !important;
+  border-color: black !important;
+}
